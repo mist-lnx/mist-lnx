@@ -9,3 +9,4 @@ Cybersecurity student interested in **Linux, Python, web security, OSINT, and se
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-444444?style=flat)
