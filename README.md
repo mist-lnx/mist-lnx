@@ -2,6 +2,8 @@
 
 ### Cybersecurity Student · Linux · Python · Web Security
 
+(This is a recently new made github profile as I wanted to start a fresh new github account)
+
 I'm a cybersecurity student interested in **Linux, server administration, Python, web security, OSINT, and security research**.
 
 I enjoy building tools, managing self-hosted infrastructure, and learning how systems work from both the development and security perspectives.
