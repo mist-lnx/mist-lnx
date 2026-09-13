@@ -76,5 +76,3 @@ I have hands-on experience working with Linux servers and self-hosted infrastruc
 **Email:** [astra_lnx@proton.me](mailto:astra_lnx@proton.me)
 
 ---
-
-> Build it. Break it. Understand it. Secure it.
