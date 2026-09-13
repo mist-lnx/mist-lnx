@@ -1,5 +1,5 @@
 
-![image alt](https://github.com/mist-lnx/mist-lnx/blob/0d1cba2bb7866a62acf2175b261ce8d10b93741d/silhouette-of-palm-tree-at-seaside-with-sunset-background-illustration-tropical-island-concept-flat-design-template-have-blank-space-vector.jpg)
+![image alt](https://github.com/mist-lnx/mist-lnx/blob/e84e560b85c42a01946681826a09c6d398a43100/a3ftzqi7ide71.png)
 
 # Hi, I'm Daniel B 👋
 
